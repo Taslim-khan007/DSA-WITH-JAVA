@@ -1,4 +1,3 @@
-
 public class diagonalSum {
 
     public static int diagonalSum(int matrix[][]) {
