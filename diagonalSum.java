@@ -1,6 +1,6 @@
 public class diagonalSum {
 
-    public static int diagonalSum(int matrix[][]) {
+    public static int diagonalSums(int matrix[][]) {
 
         int sum = 0;
 
@@ -30,6 +30,6 @@ public class diagonalSum {
                 { 13, 14, 15, 16 }
         };
 
-        System.out.println("Diagonal Sum = " + diagonalSum(matrix));
+        System.out.println("Diagonal Sum = " + diagonalSums(matrix));
     }
 }
